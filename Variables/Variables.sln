@@ -3,21 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "variables_consola", "variables_consola\variables_consola.vbproj", "{1573C654-9BEB-440B-8A82-B47ADE660940}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "01variables_consola", "variables_consola\01variables_consola.vbproj", "{1573C654-9BEB-440B-8A82-B47ADE660940}"
 EndProject
-Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "variables_tipos", "variables_tipos\variables_tipos.vbproj", "{77EB66B4-FA06-4FF1-93B7-E61E4726F602}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "02variables_tipos", "variables_tipos\02variables_tipos.vbproj", "{77EB66B4-FA06-4FF1-93B7-E61E4726F602}"
 EndProject
-Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "concatenacion", "concatenacion\concatenacion.vbproj", "{7946E849-C6BC-4841-8085-21205CB6308C}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "03concatenacion", "concatenacion\03concatenacion.vbproj", "{7946E849-C6BC-4841-8085-21205CB6308C}"
 EndProject
-Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "aritmetica", "ConsoleApp1\aritmetica.vbproj", "{595F0BFA-8697-4116-8D3E-61993D392458}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "04aritmetica", "ConsoleApp1\04aritmetica.vbproj", "{595F0BFA-8697-4116-8D3E-61993D392458}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ecuacion", "ecuacion\ecuacion.vbproj", "{F1D5C17A-8AD8-4580-9C01-74D7B1B856D7}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "05ecuacion", "ecuacion\05ecuacion.vbproj", "{F1D5C17A-8AD8-4580-9C01-74D7B1B856D7}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "sumatoria", "sumatoria\sumatoria.vbproj", "{1962FC6C-8221-48D5-9279-83ACE0BE0D24}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "06sumatoria", "sumatoria\06sumatoria.vbproj", "{1962FC6C-8221-48D5-9279-83ACE0BE0D24}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "semanas", "semanas\semanas.vbproj", "{39480F0F-4C7D-4F8D-ABE0-31CE4BD57C08}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "07semanas", "semanas\07semanas.vbproj", "{39480F0F-4C7D-4F8D-ABE0-31CE4BD57C08}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "tablasdeverdad", "tablasdeverdad\tablasdeverdad.vbproj", "{5ADFE239-95E0-49BF-8A3A-FB5EC9515FBC}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "08tablasdeverdad", "tablasdeverdad\08tablasdeverdad.vbproj", "{5ADFE239-95E0-49BF-8A3A-FB5EC9515FBC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -3,10 +3,13 @@ Imports System
 Module Program
     Sub Main(args As String())
         Dim nombre, lugarnacimiento, nombrecalle As String
-        Dim documento, alturacalle, canthabitantes As Integer
+        Dim altura, pesoenkg As Byte
+        Dim alturacalle, distanciaenkms, profundidaddemar As UShort
+        Dim canthabitantes, documento As UInteger
         Dim fechanacimiento As Date
-        Dim altura, temperatura, distanciaenkms, profundidaddemar, pesoenkg, montodearticulo As Decimal
-        Dim argentino As String
+        Dim temperatura As SByte
+        Dim montodearticulo As Decimal
+        Dim argentino As Boolean
 
         nombre = "Gonzalo"
         lugarnacimiento = "posadas"
@@ -21,14 +24,14 @@ Module Program
         profundidaddemar = 675.12
         pesoenkg = 70.4
         montodearticulo = 650.37
-        argentino = "Argentino"
+        argentino = True
 
         Console.WriteLine("Nombre de la persona: " & nombre)
         Console.WriteLine("Numero de dni: " & documento)
         Console.WriteLine("Lugar de nacimiento: " & lugarnacimiento)
         Console.WriteLine("Fecha de nacimiento: " & fechanacimiento)
         Console.WriteLine("Altura corporal en cms: " & altura)
-        Console.WriteLine("Esta persona es: " & argentino)
+        Console.WriteLine("Esta persona es de argentina: " & argentino)
         Console.WriteLine("La temperatura alli es de: " & temperatura)
         Console.WriteLine("Nombre de calle: " & nombrecalle)
         Console.WriteLine("altura: " & alturacalle)

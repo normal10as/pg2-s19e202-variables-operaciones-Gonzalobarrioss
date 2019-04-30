@@ -11,13 +11,13 @@ Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "03concatenacion", "concaten
 EndProject
 Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "04aritmetica", "ConsoleApp1\04aritmetica.vbproj", "{595F0BFA-8697-4116-8D3E-61993D392458}"
 EndProject
-Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "05ecuacion", "ecuacion\05ecuacion.vbproj", "{F1D5C17A-8AD8-4580-9C01-74D7B1B856D7}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "05cuadratica", "ecuacion\05cuadratica.vbproj", "{F1D5C17A-8AD8-4580-9C01-74D7B1B856D7}"
 EndProject
-Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "06sumatoria", "sumatoria\06sumatoria.vbproj", "{1962FC6C-8221-48D5-9279-83ACE0BE0D24}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "06suma_promedio", "sumatoria\06suma_promedio.vbproj", "{1962FC6C-8221-48D5-9279-83ACE0BE0D24}"
 EndProject
-Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "07semanas", "semanas\07semanas.vbproj", "{39480F0F-4C7D-4F8D-ABE0-31CE4BD57C08}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "07equivalencia_dias", "semanas\07equivalencia_dias.vbproj", "{39480F0F-4C7D-4F8D-ABE0-31CE4BD57C08}"
 EndProject
-Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "08tablasdeverdad", "tablasdeverdad\08tablasdeverdad.vbproj", "{5ADFE239-95E0-49BF-8A3A-FB5EC9515FBC}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "08tabla_booleana", "tablasdeverdad\08tabla_booleana.vbproj", "{5ADFE239-95E0-49BF-8A3A-FB5EC9515FBC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

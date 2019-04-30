@@ -11,7 +11,6 @@ Module variables
         apellido = Console.ReadLine()
         Console.WriteLine("Ingrese fecha de nacimiento")
         fecha = Console.ReadLine()
-        Console.WriteLine(nombre & " " & apellido & " " & "nacio en el dia" & " " & fecha)
-        Console.WriteLine("pausa")
+        Console.WriteLine(nombre & " " & apellido & " nacio en el dia " & fecha)
     End Sub
 End Module

@@ -3,12 +3,12 @@ Imports System
 Module Program
     Sub Main(args As String())
         Dim nombre, lugarnacimiento, nombrecalle As String
-        Dim altura, pesoenkg As Byte
+        Dim altura As Byte
         Dim alturacalle, distanciaenkms, profundidaddemar As UShort
         Dim canthabitantes, documento As UInteger
         Dim fechanacimiento As Date
         Dim temperatura As SByte
-        Dim montodearticulo As Decimal
+        Dim montodearticulo, pesoenkg As Decimal
         Dim argentino As Boolean
 
         nombre = "Gonzalo"

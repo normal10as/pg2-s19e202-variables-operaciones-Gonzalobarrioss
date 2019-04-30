@@ -1,6 +1,6 @@
 Imports System
 
-Module tablasdeverdad
+Module tabla_booleana
     Sub Main(args As String())
         Dim verdadero As Boolean = True
         Dim falso As Boolean = False

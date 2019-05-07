@@ -1,12 +1,14 @@
 ﻿Module Refrase
 
     Sub Main()
+        Dim frase As String = "Aunque la cadena sea de oro, sirve para lo mismo"
         Dim palabra, palabra1 As String
-        Console.WriteLine("Ingrese primer palabra: ")
+        Console.WriteLine(frase)
+        Console.WriteLine("Ingrese palabra a reemplazar: ")
         palabra = Console.ReadLine()
-        Console.WriteLine("Ingrese segunda palabra: ")
+        Console.WriteLine("Ingrese palabra nueva: ")
         palabra1 = Console.ReadLine()
-        Console.WriteLine("reemplazar {0} por {1} ", palabra, palabra1)
+        Console.WriteLine(Replace(frase, palabra, palabra1))
     End Sub
 
 End Module

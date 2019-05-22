@@ -2,13 +2,13 @@ Imports System
 
 Module Dias
     Enum DiasDeSemana
-        Lunes = 1
-        Martes = 2
-        Miercoles = 3
-        Jueves = 4
-        Viernes = 5
-        Sabado = 6
-        Domingo = 7
+        Domingo = 1
+        Lunes = 2
+        Martes = 3
+        Miercoles = 4
+        Jueves = 5
+        Viernes = 6
+        Sabado = 7
     End Enum
     Sub Main(args As String())
         Dim dias As DiasDeSemana

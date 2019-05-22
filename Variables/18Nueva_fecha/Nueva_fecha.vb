@@ -5,7 +5,7 @@ Imports System.String
 Module Nueva_fecha
     Sub Main(args As String())
         Dim fecha As Date
-        Dim dias As Double
+        Dim dias As Byte
         Console.WriteLine("Ingresar fecha: ")
         fecha = Console.ReadLine()
         Console.WriteLine("La fecha ingresada es: " & fecha)
